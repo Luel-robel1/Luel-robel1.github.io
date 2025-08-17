@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Luel Robel!
 
-I'm a **Full-Stack Developer** with **3 years of experience** building responsive and scalable web applications using **JavaScript** and **Python**. I specialize in creating seamless user experiences and robust back-end solutions. This repository (`Luel-robel1/Luel-robel1`) hosts my personal portfolio and serves as my GitHub profile page. Explore my work and connect with me for freelance opportunities on Upwork!
+I'm a **Full-Stack Developer** with experience** building responsive and scalable web applications using **JavaScript** and **Python**. I specialize in creating seamless user experiences and robust back-end solutions. This repository (`Luel-robel1/Luel-robel1`) hosts my personal portfolio and serves as my GitHub profile page. Explore my work and connect with me for freelance opportunities on Upwork!
 
 ## 🔧 Skills
 - **Front-End**: JavaScript (ES6+), React.js, HTML5, CSS3
@@ -23,9 +23,9 @@ This repository contains the following files for my portfolio and blog:
 - **`README.md`**: This file, describing my profile and repository.
 
 ## 📫 Get in Touch
-- **Email**: your.email@example.com (replace with your email)
-- **Upwork**: [upwork.com/freelancers/luelrobel1](https://www.upwork.com/freelancers/luelrobel1) (replace with your Upwork profile link)
-- **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername) (replace with your LinkedIn profile)
+- **Email**: robelluell123@gmail.com (replace with your email)
+- **Upwork**: https://www.upwork.com/freelancers/~015d9c98ff2adc69d0(https://www.upwork.com/freelancers/luelrobel1) (replace with your Upwork profile link)
+- **LinkedIn**: [linkedin.com/in/luel robel](https://linkedin.com/in/yourusername) (replace with your LinkedIn profile)
 
 💻 I'm open to collaborating on exciting web development projects. Visit my portfolio at [luel-robel1.github.io](https://luel-robel1.github.io) to see live demos, or check out my code in this repository. Let's build something amazing together!
 
